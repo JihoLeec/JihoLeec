@@ -1,5 +1,5 @@
-# WELCOME!
-🌱 sophomore software major.<img src="https://img.shields.io/logo=instagram&logoColor=000000"/></a>
+# ✨WELCOME✨
+🌱 sophomore software major. <img src="https://img.shields.io/logo=instagram&logoColor=000000"/></a>
 
 
 <img src="https://img.shields.io/badge/C-F3F5F5?style=flat&logo=c&logoColor=000000"/></a>
