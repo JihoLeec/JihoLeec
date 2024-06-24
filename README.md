@@ -3,8 +3,9 @@
 
 
 
-<img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=37814A"/></a>
+<img src="https://img.shields.io/badge/C++-F3F5F5?style=flat&logo=cplusplus&logoColor=F3F5F5"/></a>
 
+<img src="https://img.shields.io/badge/C-F3F5F5?style=flat&logo=cplusplus&logoColor=F3F5F5"/></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihoLeec&layout=compact)
