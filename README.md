@@ -1,5 +1,5 @@
 # ✨WELCOME✨
-🌱 sophomore software major. 
+Sophomore software major🌱 
 
 <a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/Instagram-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
 
