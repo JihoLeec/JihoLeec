@@ -1,4 +1,4 @@
-# 🌱 I’m a sophomore software major at DanKook Univ.
+# 🌱 I’m a sophomore software major.
 
 
 
