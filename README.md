@@ -1,7 +1,7 @@
 # 🌱 I’m a sophomore software major at DanKook Univ.
 
 
-<img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=#00599C&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=00599C&logoColor=61DAFB" />
 
 
 
