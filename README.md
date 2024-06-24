@@ -1,5 +1,5 @@
 # 🌱 I’m a sophomore software major.
-<img src="https://img.shields.io/?style=flat&logo=instagram&logoColor=000000"/></a>
+<img src="https://img.shields.io/style=flat&logo=instagram&logoColor=000000"/></a>
 
 
 <img src="https://img.shields.io/badge/C-F3F5F5?style=flat&logo=c&logoColor=000000"/></a>
