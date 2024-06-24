@@ -8,7 +8,7 @@ Sophomore software major🌱
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Python-F3F5F5?style=flat&logo=python&logoColor=000000"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh0111)](https://solved.ac/dlwlgh0111/)
-<a href = "https://www.acmicpc.net/user/dlwlgh0111"><img src="http://mazandi.herokuapp.com/api?handle=dlwlgh0111&theme=(dark)"/>
+<a href = "https://solved.ac/profile/dlwlgh0111"><img src="http://mazandi.herokuapp.com/api?handle=dlwlgh0111&theme=(dark)"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoLeec&show_icons=true&theme=dark)
