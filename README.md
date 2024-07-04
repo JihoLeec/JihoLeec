@@ -1,7 +1,7 @@
 # ✨WELCOME✨
 Sophomore software major🌱 
 
-<a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho__lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
+<a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho__lee_-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
 
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-F3F5F5?style=flat&logo=c&logoColor=000000"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C++-F3F5F5?style=flat&logo=cplusplus&logoColor=000000"/></a>
