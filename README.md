@@ -6,9 +6,9 @@ I am just a potato🥔
 <br/><br/>
 ✉️ Contact ✉️
 <br/><br/>
-<a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
+<a href = "https://www.instagram.com/jiho__lee_/"><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
 <br/>
-<a href = "jiholee.py@gmail.com"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=flat&logo=Gmail&logoColor=000000"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=flat&logo=Gmail&logoColor=000000"/></a>
 <br/><br/><br/>
 
 ✏️ Learning Tech Stack ✏️
