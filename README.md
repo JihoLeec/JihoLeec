@@ -2,10 +2,16 @@
  
 # ✨ WELCOME ✨
 
+말도 못하는 감자
+
+
 ✉️ Contact me! ✉️
+
 
 <a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
 <a href = "jiholee.py@gmail.com"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=flat&logo=Gmail&logoColor=000000"/></a>
+
+
 
 
 ✏️ Learning Tech Stack ✏️
@@ -18,10 +24,14 @@
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/HTML5-F3F5F5?style=flat&logo=html5&logoColor=000000"/></a>
 
 
+
+
 ✏️ Learning Algorithm ✏️
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh0111)](https://solved.ac/dlwlgh0111/)
 <a href = "https://solved.ac/profile/dlwlgh0111"><img src="http://mazandi.herokuapp.com/api?handle=dlwlgh0111&theme=(dark)"/>
+
+
 
 
 📃 Learning Algorithm 📃
