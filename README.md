@@ -2,7 +2,7 @@
  
 # ✨ WELCOME ✨
 <br/>
-말도 못하는 감자
+I am just a 🥔
 <br/><br/>
 ✉️ Contact ✉️
 <br/><br/>
