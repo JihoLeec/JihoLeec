@@ -12,11 +12,11 @@
 
 ✏️ Learning Tech Stack ✏️
 <br/>
-<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=A8B9CC"/></a>
-<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C++-F3F5F5?style=flat&logo=cplusplus&logoColor=00599C"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=F3F5F5"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/JAVA-000000?style=flat&logo=OpenJDK&logoColor=F3F5F5"/></a>
-<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Python-F3F5F5?style=flat&logo=python&logoColor=3776AB"/></a>
-<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Django-F3F5F5?style=flat&logo=django&logoColor=092E20"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=F3F5F5"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=F3F5F5"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=F3F5F5"/></a>
 <br/><br/><br/>
 
