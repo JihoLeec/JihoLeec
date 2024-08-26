@@ -8,9 +8,9 @@
 
 ### ✉️ Contact ✉️
 <br/><br/>
-<a href = "https://www.instagram.com/jiho__lee_/"><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
+<a href = "https://www.instagram.com/jiho__lee_/"><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=social&logo=instagram&logoColor=000000"/></a>
 <br/>
-<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=for-the-badge&logo=Gmail&logoColor=000000"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=social&logo=Gmail&logoColor=000000"/></a>
 <br/><br/><br/>
 
 ### ✏️ Learning Tech Stack ✏️
