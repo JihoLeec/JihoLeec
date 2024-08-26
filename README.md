@@ -3,10 +3,11 @@
 # ✨ WELCOME ✨
 <br/><br/>
 
-#####  **I am just a potato🥔**
+##  **I am just a potato🥔**
 <br/><br/><br/>
 
 ---
+<br/>
 ### ✉️ Contact ✉️
 <br/><br/>
 <a href = "https://www.instagram.com/jiho__lee_/"><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
