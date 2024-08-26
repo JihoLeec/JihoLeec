@@ -1,5 +1,5 @@
 # ✨WELCOME✨
-Sophomore software major🌱 
+<div align="center">
 
 <a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
 
@@ -15,3 +15,5 @@ Sophomore software major🌱
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoLeec&show_icons=true&theme=dark)
+ 
+</div>
