@@ -2,7 +2,7 @@
  
 # ✨ WELCOME ✨
 <br/>
-I am just a 🥔
+I am just a potato🥔
 <br/><br/>
 ✉️ Contact ✉️
 <br/><br/>
