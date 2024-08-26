@@ -11,7 +11,7 @@
 <br/><br/><br/>
 
 ✏️ Learning Tech Stack ✏️
-<br/>
+<br/><br/>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=F3F5F5"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/JAVA-000000?style=flat&logo=OpenJDK&logoColor=F3F5F5"/></a>
