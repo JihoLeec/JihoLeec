@@ -3,10 +3,11 @@
 # ✨ WELCOME ✨
 <br/>
 말도 못하는 감자
-<br/><br/><br/>
+<br/><br/>
 ✉️ Contact me! ✉️
 <br/><br/>
 <a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
+<br/>
 <a href = "jiholee.py@gmail.com"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=flat&logo=Gmail&logoColor=000000"/></a>
 <br/><br/><br/>
 
