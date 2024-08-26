@@ -1,6 +1,5 @@
-# ✨WELCOME✨
 <div align="center">
-
+# ✨WELCOME✨
 <a href ="https://www.instagram.com/jiho__lee_/" ><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=flat&logo=instagram&logoColor=000000"/></a>
 
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-F3F5F5?style=flat&logo=c&logoColor=000000"/></a>
