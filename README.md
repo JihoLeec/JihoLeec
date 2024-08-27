@@ -6,14 +6,14 @@
 ###  **I am just a potato🥔**
 <br/><br/><br/>
 
-### ✉️Contact
+### ✉️ Contact
 <br/>
 <a href = "https://www.instagram.com/jiho__lee_/"><img src="https://img.shields.io/badge/jiho____lee__-F3F5F5?style=social&logo=instagram&logoColor=000000"/></a>
 <br/>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/jiholee.py@gmail.com-F3F5F5?style=social&logo=Gmail&logoColor=000000"/></a>
 <br/><br/><br/>
 
-### ✏️Learning Tech Stack
+### ✏️ Learning Tech Stack
 <br/>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=F3F5F5"/></a>
@@ -25,7 +25,7 @@
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=F3F5F5"/></a>
 <br/><br/><br/>
 
-### ✏️Learning Algorithm
+### ✏️ Learning Algorithm
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh0111)](https://solved.ac/dlwlgh0111/)
