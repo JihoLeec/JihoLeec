@@ -23,6 +23,7 @@
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=F3F5F5"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=F3F5F5"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=F3F5F5"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F3F5F5"/></a>
 <br/><br/><br/>
 
 ### ✏️ Learning Algorithm
