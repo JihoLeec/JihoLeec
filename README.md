@@ -1,3 +1,24 @@
+# 강의 요약 및 퀴즈 생성기
+
+> <span style="color:gray"><strong>단국대학교 오픈소스SW기초 6분반 15조</strong><br>
+<strong>조원: </strong>이지호, 변윤성, 박수빈</span>
+
+<br><br>
+
+## 프로젝트 소개
+ 이 프로젝트는 사용자가 음성 파일을 업로드하면 이를 텍스트로 변환한 뒤, 그 내용을 기반으로 자동으로 퀴즈를 생성해주는 웹 기반 서비스입니다. STT(Speech to text)를 담당하는 오픈소스인 Whisper와 텍스트를 기반으로 퀴즈를 생성해주는 오픈소스인 Text2Question를 조합했습니다. 
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 # ✨ WELCOME ✨
