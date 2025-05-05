@@ -1,8 +1,5 @@
 <div align="center">
 
-> <span style="color:gray"><strong>test</strong><br>
-<strong>개발기간:</strong> 2025 ~ 2025</span>
-
 # ✨ WELCOME ✨
 <br/><br/>
 
