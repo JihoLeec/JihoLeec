@@ -8,8 +8,9 @@
 ## 이곳은 "backend" branch입니다.
 <br><br>
 
-<pre>
-## 디렉토리 구조```
+
+## 디렉토리 구조
+<pre>```
 OS_15
 │  .gitignore
 │  README.md
