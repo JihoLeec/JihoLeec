@@ -6,11 +6,9 @@
 <br><br>
 
 ## 이곳은 "backend" branch입니다.
-<br><br>
-
 
 ## 디렉토리 구조
-<pre>```
+<pre>
 OS_15
 │  .gitignore
 │  README.md
@@ -28,7 +26,7 @@ OS_15
         │
         └─summary
                 bart_summary.py
-```</pre>
+</pre>
 <br><br>
 
 ## 서버 실행 방법
