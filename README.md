@@ -17,7 +17,7 @@
 <br/>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=F3F5F5"/></a>
-<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=OpenJDK&logoColor=F3F5F5"/></a>
+<a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/JAVA-B32629?style=for-the-badge&logo=OpenJDK&logoColor=F3F5F5"/></a>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F3F5F5"/></a>
 <!--<br/>
 <a href = "https://github.com/JihoLeec"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=F3F5F5"/></a>
